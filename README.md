@@ -121,3 +121,8 @@ int main()
 ```
 
 Array of N elements
+(Done using Scala programming language as C++ option was not available)
+```
+def f(num: Int): List[Int] = (0 until num).toList
+    def readInt(): Int = scala.io.StdIn.readInt()
+```
